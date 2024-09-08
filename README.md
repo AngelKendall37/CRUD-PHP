@@ -44,7 +44,7 @@ Este proyecto es un sistema web básico para la gestión de usuarios, menús din
 1. Clonar el repositorio.
 2. Configurar la base de datos e importar el archivo SQL correspondiente.
 3. Configurar los detalles de la base de datos en los modelos.
-4. Acceder al proyecto desde un servidor local (por ejemplo, `http://localhost/proyecto`).
+4. Acceder al proyecto desde un servidor con la siguiente ruta: local http://localhost:3000/public/index.php.
 
 ## Uso
 
